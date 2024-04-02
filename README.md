@@ -1,0 +1,1 @@
+It is a Sentimental analysis of twitter tweets by training Bidirectional LSTM sentimental model using Convolutional Neural Network(CNN), in which it takes twitters tweets as a input and in return it gives output as in it predicts the sentiment of the tweet whether it is Positive, Negative or Neutral.
